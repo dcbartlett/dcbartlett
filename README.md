@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals:
+- 🥅 2022 Goals:
   - Become a sponsor for an open source project
   - Become a maintainer for an open source project
 

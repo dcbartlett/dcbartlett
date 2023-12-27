@@ -1,10 +1,11 @@
-## I'm a Husband, Developer, and Teacher!!
+## I'm a Developer and a Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals:
+- 🥅 2024 Goals:
   - Become a sponsor for an open source project
   - Become a maintainer for an open source project
+  - Contribute to a not-for-profit organization
 
 ### Languages and Tools:
 

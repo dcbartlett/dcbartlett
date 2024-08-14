@@ -14,24 +14,22 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dcbartlett&theme=github-dark-dimmed&custom_title=dcbartlett%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
-name: Dennise Bartlett
+name: Dennis Bartlett
 located_in: Louisiana
 from: United States
 job: Director of Engineering
-education: []
-company: N/A
+company: Gravelight Studios (https://github.com/Gravelight-Studios)
 availability: Remote
 past experiences: 
-  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
-  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
-  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
-  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
-  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
+  - ["Lead Software Engineer", "Client Application (React)", "Treez, Inc", "Remote", "2022-2023"]
+  - ["Lead Software Engineer", "B2B Backend (NodeJS)", "Deluxe Corp.", "Remote", "2021-2022"]
+  - ["Senior Software Engineer", "Contract (NodeJS/React)", "Vaco", "Remote", "2020-2021"]
+  - ["Senior Software Engineering Manager", "NodeJS/React", "Red Ventures", "Charlotte, NC", "2019-2020"]
+  - ["Solutions Architect", "Customer Mobile and WebApp (Java/React)", "Netspend", "Austin, TX", "2015-2019"]
 
-fields_of_interests: ["Mobile Applications", "System Design", "Cyber Security"]
+fields_of_interests: ["Mobile Applications", "PWA", "System Design", "Cyber Security"]
 technical_background: ["Large Scale Financial"]
-skills: ["Web3", "React", "Typescript", "NodeJS"]
+skills: ["Web3", "React", "Typescript", "NodeJS", "Game Development"]
 to_learn: ["Blockchain", "Cryptography"]
 hobbies: ["Competitive Gaming", "IoT", "Hiking"]
 ```

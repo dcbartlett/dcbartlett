@@ -15,9 +15,9 @@
 
 ```yaml
 name: Dennise Bartlett
-located_in: New York
+located_in: Louisiana
 from: United States
-job: Software Engineer
+job: Director of Engineering
 education: []
 company: N/A
 availability: Remote

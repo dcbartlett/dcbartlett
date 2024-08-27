@@ -21,6 +21,8 @@ job: Director of Engineering
 company: Gravelight Studios (https://github.com/Gravelight-Studios)
 availability: Remote
 past experiences: 
+  - ["Director of Technology", "Javascript and C++ Stacks", "Gravelight Studios", "Remote", "2024-Now"]
+  - ["Mentor", "Full Stack Javascript", "Coding Coach", "Remote", "2023-Now"]
   - ["Lead Software Engineer", "Client Application (React)", "Treez, Inc", "Remote", "2022-2023"]
   - ["Lead Software Engineer", "B2B Backend (NodeJS)", "Deluxe Corp.", "Remote", "2021-2022"]
   - ["Senior Software Engineer", "Contract (NodeJS/React)", "Vaco", "Remote", "2020-2021"]

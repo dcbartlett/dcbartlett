@@ -19,7 +19,7 @@ located_in: California
 from: United States
 job: Head of Engineering
 company: Cline Bot Inc (https://github.com/cline)
-availability: Remote
+availability:  Nope, Busy
 past experiences:
   - ["Head of Engineering", "Agentic AI coder", "Cline Bot Inc", "San Francisco, CA", "2025-Now"]
   - ["Chief Technical Officer", "Javascript and C++ Stacks", "Gravelight Studios", "Remote", "2024-Now"]

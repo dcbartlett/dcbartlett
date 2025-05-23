@@ -19,6 +19,7 @@ located_in: California
 from: United States
 job: Head of Engineering
 company: Cline Bot Inc (https://github.com/cline)
+company: Gravelight Studios (https://github.com/Gravelight-Studios)
 availability:  Nope, Busy
 past experiences:
   - ["Head of Engineering", "Agentic AI coder", "Cline Bot Inc", "San Francisco, CA", "2025-Now"]
